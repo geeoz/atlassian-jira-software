@@ -47,7 +47,7 @@ You can configure a small set of things by supplying the following environment v
 | CATALINA_CONNECTOR_SCHEME         | The protocol via which Jira is accessed. |
 | CATALINA_CONNECTOR_SECURE         | Set 'true' if CATALINA_CONNECTOR_SCHEME is 'https'. |
 | CATALINA_CONTEXT_PATH             | The context path the application is served over. |
-| JAVA_OPTS                         | the standard environment variable that some servers and other java apps append to the call that executes the java command. |
+| JAVA_OPTS                         | The standard environment variable that some servers and other java apps append to the call that executes the java command. |
 | CROWD_ENABLE                      | Enable Crowd Integration and SSO |
 | APPLICATION_NAME                  | The name that the application will use when authenticating with the Crowd server. |
 | APPLICATION_PASSWORD              | The password that the application will use when authenticating with the Crowd server. |
