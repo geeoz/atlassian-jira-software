@@ -1,6 +1,6 @@
 FROM openjdk:8-jdk-alpine
 
-ARG JIRA_VERSION=8.12.0
+ARG JIRA_VERSION=8.12.1
 
 ENV RUN_USER            daemon
 ENV RUN_GROUP           daemon
